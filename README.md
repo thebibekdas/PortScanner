@@ -20,9 +20,12 @@ This tools is use for find open port.
 
 ```
     
+
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1dIwvunx5VPmXNHS9_yLLHJjApeeEl7nM/view?usp=share_link)
+![App Screenshot](https://raw.githubusercontent.com/thebibekdas/Port-Scanner/master/pscanner.PNG)
+
+
 
 
 
