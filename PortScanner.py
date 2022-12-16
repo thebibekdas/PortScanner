@@ -4,11 +4,6 @@ import threading
 from datetime import datetime
 import subprocess
 
-output=subprocess.Popen("title portscanner",shell=True)
-#output=subprocess.Popen("color 0a",shell=True)
-print(output)
-#input()
-
 ascii_banner = pyfiglet.figlet_format("PORT SCANNER")
 print(ascii_banner)
 print("-"*70)
