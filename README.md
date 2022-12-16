@@ -27,20 +27,16 @@ This tools is use for find open port.
 
 
 
-
-
-
-
-
 ## 🚀 About Me 
 I'm a Independent security researcher love’s to find
 security loopholes and patch them by reporting.
 
+ *You can check [Instagram](https://www.instagram.com/thebibekdas/)✌*
 
 
-## Authors
+### Development by
 
-- [@thebibekdas](https://github.com/thebibekdas/Port-Scanner)
+Developer / Author: [thebibekdas](https://www.instagram.com/thebibekdas/)
 
 
 ## 🔗 Links
