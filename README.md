@@ -1,15 +1,13 @@
 
-                    # Hi, I'm Bibek! 👋#
-                          ❤❤️❤
-                    ####################
+                              # Hi, I'm Bibek! 👋#
+                                     ❤❤️❤
+                              ####################
 
 #  TCP-Port-Scanner
 
 This tools is use for find open port.
 
-## Installation
-
-Install my-project with npm
+## Installation Linux
 
 ```bash
   git clone https://github.com/thebibekdas/Port-Scanner
