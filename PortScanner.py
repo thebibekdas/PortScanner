@@ -17,6 +17,9 @@ print("""
        /  \-'~;   ||     |                v.1.0.0
       /  __/~| ...||__/|-"            PORT SCANNER TOOL
     =(  _____||________|                ~thebibekdas~
+   
+   https://github.com/thebibekdas/Port-Scanner
+    
 """)
 
 print("-"* 70)
