@@ -16,7 +16,7 @@ This tools is use for find open port.
 
   pip3 install -r requirements.txt
 
-  python Port-Scanner.python
+  python Port-Scanner.py
 
 ```
     
