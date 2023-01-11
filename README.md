@@ -31,7 +31,7 @@ This tools is use for find open port.
 I'm a Independent security researcher love’s to find
 security loopholes and patch them by reporting.
 
- *You can check [Instagram](https://www.instagram.com/thebibekdas/)✌*
+ *You can check on [Instagram](https://www.instagram.com/thebibekdas/)✌*
 
 
 ### Development by
